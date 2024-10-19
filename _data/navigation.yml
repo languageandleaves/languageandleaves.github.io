@@ -1,5 +1,7 @@
 header:
-  - title: Language / Sprachfortbildung
+  - title: Language/Sprachfortbildung
     url: /language/index
-  - title: Leaves / Waldfortbildung
+  - title: Leaves/Waldfortbildung
     url: /leaves/index
+  - title: Über mich
+    url: about_me
