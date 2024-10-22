@@ -5,3 +5,6 @@ header:
     url: /leaves/index
   - title: Über mich
     url: about_me
+  - title: Kontakt
+    url: /kontakt
+    

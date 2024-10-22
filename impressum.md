@@ -1,8 +1,6 @@
 ---
-title: Impressum / Kontakt
+title: Impressum
 ---
-#### Impressum
-
 Angaben gemäß § 5 DDG (ehemals TMG):
 
 Anja Weide\
@@ -12,20 +10,9 @@ Rheindahlener Straße 47\
 Tel.: +49-(0)2166-950861\
 E-Mail: languageandleaves@gmail.com
 
-Webdesign und Realisierung: ???? jekyll ??? / github? Anja und Lars Weide?\
-Fotos: Anja Weide / Lars Weide (mit Link?)\
-Logo:
-
-#### Kontakt
-
-Anja Weide\
-Rheindahlener Straße 47\
-41189 Mönchengladbach\
-Tel.:+49-(0)2166-950861\
-mobil:+49-(0)1575-9404471
-
-E-Mail: languageandleaves@gmail.com
-Internet: www.languageandleaves.de
+Webdesign und Realisierung:  Unterstützt von [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) / Github /  Anja und Lars Weide?\
+Fotos: Anja Weide / Lars Weide (mit Link?) / Karin Sachsenhausen\
+Logo erstellt mit Symbolen von [Pictogrammers](https://pictogrammers.com/); lizensiert unter [Apache 2.0 Lizenz](https://pictogrammers.com/docs/general/license/)
 
 #### Rechtliche Hinweise
 
