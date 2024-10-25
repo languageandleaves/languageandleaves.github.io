@@ -128,4 +128,4 @@ Die von Ihnen an mich per Kontaktanfragen übersandten Daten verbleiben bei mir,
 
 ## Quelle
 
-Diese Datenschutzerklärung habe ich mit Unterstützung des Datenschutz-Generators der eRecht24 erstellt (https://www.e-recht24.de), auf meine Seite angepasst und zur besseren Verständlichkeit sprachlich überarbeitet.
+Diese Datenschutzerklärung habe ich mit Unterstützung des Datenschutz-Generators auf [www.e-recht24.de](https://www.e-recht24.de) erstellt, auf meine Seite angepasst und zur besseren Verständlichkeit sprachlich überarbeitet.
