@@ -16,9 +16,6 @@ Ich freue mich darauf, meine Leidenschaften mit Euch zu teilen.
 
 
 
-![Foto Büro](/photooffice.jpg){: .image--lg}
-
-
 Zertifikat Waldführerin – 2022
 
 Qualifizierung zur (Kidix®) Eltern-Kind-Kursleitung - 2014
