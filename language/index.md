@@ -8,17 +8,20 @@ title: Language - Sprachbildungsangebote
 
 
 
-![Foto Anja Johnny](/photoAnjaJohnny.jpg){: .image--lg}
+![Foto Anja Johnny](/photoAnjaJohnny.jpg){: .image--lg}\
+*Handpuppe Johnny ist bei den "First Steps" immer dabei*
+
 
 Sprachen haben mich immer schon fasziniert. Meine erste Fremdsprache war Latein, dann folgten Englisch und Französisch und über AGs und Fortbildungen kurze Ausflüge ins Russische und Spanische.
 
-Während meiner Ausbildung zur Diplom-Übersetzerin (Fachbereich Technik) und bei mehrmonatigen Auslandsaufenthalten in Irland und Frankreich konnte ich meine Sprachkenntnisse in Englisch und Französisch vertiefen. Ich lernte in Studium und Beruf englische Muttersprachler kennen, zu denen ich noch heute regelmäßigen Kontakt (in Wort und Schrift) pflege.
+Während meiner Ausbildung zur Diplom-Übersetzerin und bei mehrmonatigen Auslandsaufenthalten in Irland und Frankreich konnte ich meine Sprachkenntnisse in Englisch und Franzöisch vertiefen.
+Ich habe Freunde in Irland und Amerika, mit denen ich in regelmäßigem Kontakt und Austausch bin. 
 
-Ich unternehme keine Reise in ein fremdes Land ohne ein paar landessprachliche Begrüßungsformeln und Höflichkeitsfloskeln im Gepäck und so konnte ich Einblicke in Sprachen wie Niederländisch, Italienisch, Isländisch, Norwegisch, (Irisches) Gälisch, Finnisch, Walisisch etc. gewinnen. 
+Wenn ich ein fremdes Land bereise, habe ich immer ein paar landessprachliche Begrüßungsformeln und Höflichkeitsfloskeln im Gepäck. Meine Erfahrung: egal, wie stümperhaft meine Versuche sind, sie werden stets mit einem dankbaren Lächeln belohnt und es öffnen sich die Herzen der Einheimischen!!
 
-Meine Erfahrung: der Versuch, die Landessprache zu sprechen wird immer mit einem dankbaren Lächeln belohnt und es öffnen sich förmlich die Herzen der Einheimischen – egal, wie stümperhaft die Versuche sind!
-
-Also, nur Mut: Wagt den ersten Schritt und erobert Euch die Herzen der Menschen auf Reisen oder im Beruf!! Gerne unterstütze ich Euch dabei mit meiner absoluten Lieblingssprache ENGLISCH!
+Also, nur Mut, das könnt Ihr auch !!\
+Erobert Euch die Herzen der Menschen auf Reisen oder im Beruf!!\
+Gerne unterstütze ich Euch dabei mit meiner absoluten Lieblingssprache ENGLISCH!
 
 Meine Nachhilfe-Erfahrung reicht bis zu meinem 16. Lebensjahr zurück und seit einigen Jahren bereichern Englischangebote für Kindergartenkinder mein Unterrichtsspektrum.
 
@@ -39,15 +42,15 @@ Gerne biete ich Unterricht im privaten Umfeld an. Hier fühlen sich insbesondere
 *„Adult coaching“ – 45, 60 oder 90 min*\
 °individuelle Sprachvermittlung/-vertiefung der englischen Sprache für Erwachsene (Grammatik, Konversation, Textverstehen, Wortschatz)
 
-Alle Angebote sind als Gruppenkurse mit bis zu 4 Teilnehmern möglich – die Kosten für den Einzelnen verringern sich dann entsprechend.
+Nach Absprache sind die Angebote als Gruppenkurse mit bis zu 4 Teilnehmern möglich – die Kosten für den Einzelnen verringern sich dann entsprechend.
 
 Falls eine intensive Förderung gewünscht ist, empfehle ich Einzelunterricht.
 
-Gerne biete ich Ihnen/Euch ein kostenloses Beratungsgespräch an, um gemeinsam das beste Angebot für Ihre Bedürfnisse zu erarbeiten.
+Gerne biete ich ein kostenloses Beratungsgespräch an, um das beste Angebot für Eure Bedürfnisse zu finden.
 
 #### Preise pro Kurseinheit
 
-30 min – 15,00 Euro\
-45 min – 22,50 Euro\
-60 min – 30,00 Euro\
-90 min – 45,00 Euro
+**30 min – 15,00 Euro**\
+**45 min – 22,50 Euro**\
+**60 min – 30,00 Euro**\
+**90 min – 45,00 Euro**

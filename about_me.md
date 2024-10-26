@@ -22,17 +22,6 @@ Qualifizierung zur (Kidix®) Eltern-Kind-Kursleitung - 2014
 
 Diplom-Fachübersetzerin - 1994
 
-**Fortbildungen:**\
-Erste Hilfe am Kind\
-Outdoor Erste Hilfe\
-Belehrungen zum Infektionsschutzgesetz\
-Präventionsschulungen
-
-**Seminare:**\
-Bäume bestimmen\
-Essbare Wildkräuter\
-Die faszinierende Welt der Vögel\
-Faszination Totholz
 
 
 ### Beruflicher Werdegang / Erfahrungen
@@ -57,6 +46,11 @@ Assistenz der kaufm. Geschäftsführung\
 Partner-Sekretärin einer international tätigen Wirtschaftssozietät\
 (Freshfields Bruckhaus Deringer)
 
+1990 – 1993\
+Deutsche Messe-AG Hannover\
+Besucherinformation auf deutsch, englisch und französisch
+
+
 1987-1994\
 Studium Fachübersetzen Technik an der Universität Hildesheim\
 Schwerpunkte Maschinenbau und Elektrotechnik\
@@ -64,11 +58,3 @@ Sprachen Englisch und Französisch\
 *Auslandssemester:*\
 Université de Pau (Sommersemester 1990)\
 Dublin City University (Wintersemester 1991)
-
-1990 – 1993\
-Deutsche Messe-AG Hannover\
-Besucherinformation auf deutsch, englisch und französisch
-
-Nachhilfe seit dem 16. Lebensjahr
-
-Freunde in Irland und Amerika
