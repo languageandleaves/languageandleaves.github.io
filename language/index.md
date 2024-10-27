@@ -30,16 +30,18 @@ Gerne biete ich Unterricht im privaten Umfeld an. Hier fühlen sich insbesondere
 
 **Kursangebote**
 
-*„Storytime“ – 30 min*\
+- *"Storytime" – 30 min*\
 °Vorlesen englischer Bilderbücher für die Kleinsten ab 3 Jahren
 
-*„First Steps in English“ – 45 min*\
+- *"First Steps in English" – 45 min*\
 °spielerisches Annähern an die englische Sprache ab 4,5 Jahren
 
-*„Private lessons“ – 45 oder 60 min*\
+- *NACHHILFE\
+"Private lessons" – 45 oder 60 min*\
 °professionelle individuelle Englisch-Nachhilfe von Grundschule bis Abitur
 
-*„Adult coaching“ – 45, 60 oder 90 min*\
+- *Erwachsenenbildung für Beruf/Urlaub\
+„Adult coaching“ – 45, 60 oder 90 min*\
 °individuelle Sprachvermittlung/-vertiefung der englischen Sprache für Erwachsene (Grammatik, Konversation, Textverstehen, Wortschatz)
 
 Nach Absprache sind die Angebote als Gruppenkurse mit bis zu 4 Teilnehmern möglich – die Kosten für den Einzelnen verringern sich dann entsprechend.

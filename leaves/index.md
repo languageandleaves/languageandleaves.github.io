@@ -15,9 +15,9 @@ Nach Jahrzehnten der Lektüre für den Eigengebrauch, habe ich mir Ende 2022 ein
 
 Seit 2023 führe ich ehrenamtlich für die Kinder- und Jugendabteilung des NABU Mönchengladbach Familien jahreszeitlich durch den Wald.
 
-Ab sofort kann man mich nun auch „privat buchen“ – ich biete **Waldführungen für Groß und Klein, Jung und Alt, für Kindergärten und Schulklassen, Firmen, Vereine, Altenheime, Familien und Einzelpersonen** an.
+Ab sofort kann man mich nun auch „privat buchen“ – ich biete **Waldführungen für Groß und Klein, Jung und Alt, für Kindergärten und Schulklassen, Firmen, Vereine, Familien und Einzelpersonen** an.
 
-Vielleicht eine Idee für den nächsten **(Kinder-)Geburtstag** oder **Gruppenausflug**?
+Wie wäre es mit einer Wald-Expedition zum nächsten **(Kinder-)Geburtstag** oder **Gruppenausflug**?
 
 
 Gerne erstelle ich ein individuelles Angebot!\
