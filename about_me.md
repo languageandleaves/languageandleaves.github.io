@@ -44,11 +44,11 @@ Assistenz der kaufm. Geschäftsführung\
 
 1993 – 1999\
 Partner-Sekretärin einer international tätigen Wirtschaftssozietät\
-(Freshfields Bruckhaus Deringer)
+(Freshfields Bruckhaus Deringer, Düsseldorf)
 
 1990 – 1993\
 Deutsche Messe-AG Hannover\
-Besucherinformation auf deutsch, englisch und französisch
+Messetätigkeiten/Besucherinformation auf deutsch, englisch und französisch
 
 
 1987-1994\
