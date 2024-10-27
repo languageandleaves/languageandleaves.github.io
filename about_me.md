@@ -58,3 +58,6 @@ Sprachen Englisch und Französisch\
 *Auslandssemester:*\
 Université de Pau (Sommersemester 1990)\
 Dublin City University (Wintersemester 1991)
+
+seit 1984\
+Nachhilfetätigkeiten in den Sprachen Englisch, Französisch und Latein
