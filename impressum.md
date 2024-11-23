@@ -10,10 +10,11 @@ Rheindahlener Straße 47\
 Tel.: +49-(0)1575-9404471\
 E-Mail: languageandleaves@gmail.com
 
-Webdesign und Realisierung:  Anja Weide/Lars Weide [Fisch03](https://fisch03.xyz/#Home); unter Nutzung von [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)\
+Webdesign und Realisierung:  Anja Weide/Lars Weide; unter Nutzung von [Jekyll](http://jekyllrb.com/) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)\
 Fotos: Anja Weide/Lars Weide/Karin Sachsenhausen\
 Logo erstellt mit Symbolen von [Pictogrammers](https://pictogrammers.com/); lizensiert unter [Apache 2.0](https://pictogrammers.com/docs/general/license/)
 
+Umsatzsteuer wird nicht ausgewiesen (Kleinunternehmerregelung)
 
 
 ### Rechtliche Hinweise
@@ -33,3 +34,9 @@ Meine Website enthält Links zu externen Websites Dritter, auf deren Inhalte ich
 
 Die durch mich erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen meiner schriftlichen Zustimmung. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 Soweit die Inhalte auf dieser Seite nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen. 
+
+##### Streitbeilegung
+
+Plattform der EU-Kommission zur Online-Streitbeilegung: https://ec.europa.eu/odr
+
+Ich bin zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.

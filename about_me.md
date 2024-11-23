@@ -12,6 +12,7 @@ Bei meinem Studium als *Übersetzerin* konnte ich meine Leidenschaft für Sprach
 
 Ich freue mich darauf, meine Leidenschaften mit Euch zu teilen. 
 
+
 ## Meine Qualifikationen
 
 
@@ -22,11 +23,13 @@ Qualifizierung zur (Kidix®) Eltern-Kind-Kursleitung - 2014
 
 Diplom-Fachübersetzerin - 1994
 
+| ![Foto Anja Weide](/Waldführerin.jpg){: .image--lg} | ![Foto Anja Weide](/Kidix.jpg){: .image--lg } | ![Foto Anja Weide](/Fachuebersetzen.jpg){: .image--lg }
 
+<!-- | ![Foto Anja Weide](/Vogelseminar.jpg){: .image--lg} | ![Foto Anja Weide](/Baumbestimmung.jpg){: .image--lg } | ![Foto Anja Weide](/Wildkraeuter.jpg){: .image--lg } -->
 
 ### Beruflicher Werdegang / Erfahrungen
 
-seit 2023\
+seit 2024\
 NABU/NAJU Mönchengladbach\
 ehrenamtliche Familien-Waldführungen
 

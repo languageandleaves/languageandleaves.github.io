@@ -1,3 +1,28 @@
+@font-face {
+    font-family: 'Tangerine';
+    src: url('/fonts/Tangerine-Regular.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+         url('/fonts/Tangerine-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}  
+
+h1 {
+    margin-bottom: 0;
+}
+
 h2 {
     padding-top: 20px;
+}
+
+h3 {
+    padding-top: 15px;
+}
+
+.quote {
+    font-family: 'Tangerine';
+    font-size: map-get($base, font-size-h2);
+    transform: translateY(-0.2rem);
+}
+.quote-author {
+    font-family: 'Tangerine';
+    font-size: map-get($base, font-size-h3);
+    color: $text-color-theme-light-d;
 }

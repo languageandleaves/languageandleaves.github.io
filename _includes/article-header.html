@@ -1,6 +1,8 @@
 {%- include snippets/get-article-title.html article=include.article-%}
 {%- assign _article_title = __return -%}
 
+
+
 {%- if include.html != false -%}
 
   {%- include snippets/assign.html
@@ -16,7 +18,10 @@
   {%- if _show_title or _show_edit_on_github -%}
     <div class="article__header">
       {%- if _show_title -%}
-        <header><h1>{{ _article_title }}</h1></header>
+        <h1 class="article_title">{{ _article_title }}</h1>
+      {%- endif -%}
+      {%- if include.article.quote -%}
+        <div class="quote">„{{ include.article.quote }}“-<span class="quote-author">{{ include.article.quote_author }}</span></span>
       {%- endif -%}
       {%- if _show_edit_on_github -%}
         {%- if site.repository and site.repository_tree -%}

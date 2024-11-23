@@ -1,12 +1,8 @@
 ---
 title: Language - Sprachbildungsangebote
+quote: Eine Sprache bringt Sie in den Korridor fürs Leben. Zwei Sprachen öffnen unterwegs jede Tür.
+quote_author: Frank Smith
 ---
-
-*„Eine Sprache bringt Sie in den Korridor fürs Leben. Zwei Sprachen öffnen unterwegs jede Tür.“*
-
-*Frank Smith*
-
-
 
 ![Foto Anja Johnny](/photoAnjaJohnny.jpg){: .image--lg}\
 *Handpuppe Johnny ist bei den "First Steps" immer dabei*
