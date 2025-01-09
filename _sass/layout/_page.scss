@@ -163,3 +163,8 @@ html,
     padding-top: map-get($layout, header-height);
   }
 }
+
+.page-img {
+  width: map-get($image, width-lg);
+  margin-top: 3rem;
+}

@@ -181,7 +181,16 @@ layout: base
         {%- if _full_width == false -%}
           <div class ="main">
         {%- endif -%}
-            <div class="grid grid--reverse">
+            <div class="grid">
+
+              {%- if page.image -%}
+                <div class="page-img">
+                  <img src="{{ page.image }}" class="image--lg"/>
+                  {%- if page.image_caption -%}
+                    <i>{{ page.image_caption }}</i>
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
 
               <div class="col-aside d-print-none js-col-aside">
                 {%- if page.aside -%}
@@ -215,7 +224,7 @@ layout: base
                     {%- endif -%}
                 </article>
                 {%- include main/bottom/custom.html -%}
-              </div>
+              </div>    
             </div>
 
         {%- if _full_width == false -%}

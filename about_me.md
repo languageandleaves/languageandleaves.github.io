@@ -1,7 +1,8 @@
 ---
 title: Über mich
+
+image: /photoaboutme.jpg
 ---
-![Foto Anja Weide](/photoaboutme.jpg){: .image--lg}
 
 **Hallo, ich bin Anja Weide: Baumfan, Sprachliebhaber und Menschenfreund.**
 

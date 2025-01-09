@@ -1,10 +1,10 @@
 ---
-title: Leaves - Waldbildungsangebote
+title: Waldbildungsangebote
 quote: Bäume sind Gedichte, die die Erde in den Himmel schreibt.
 quote_author: Khalil Gibran
----
 
-![Foto Herbstblätter](/photoautumnleaves.jpg){: .image--lg}
+image: /photoautumnleaves.jpg
+---
 
 Solange ich denken kann, standen Sachbücher über Naturthemen ganz oben auf meiner Wunschliste. Meine große Liebe galt dabei vor allem dem Wald und ganz speziell den Bäumen.
 

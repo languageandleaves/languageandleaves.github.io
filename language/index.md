@@ -1,12 +1,18 @@
 ---
-title: Language - Sprachbildungsangebote
+title: Sprachbildungsangebote
 quote: Eine Sprache bringt Sie in den Korridor fürs Leben. Zwei Sprachen öffnen unterwegs jede Tür.
 quote_author: Frank Smith
+
+image: /photoAnjaJohnny.jpg
+image_caption: Handpuppe Johnny ist bei den "First Steps" immer dabei
 ---
 
-![Foto Anja Johnny](/photoAnjaJohnny.jpg){: .image--lg}\
-*Handpuppe Johnny ist bei den "First Steps" immer dabei*
-
+<!--
+<div class="image-left">
+<img src="/photoAnjaJohnny.jpg" class="image--lg" />
+<i>Handpuppe Johnny ist bei den "First Steps" immer dabei</i>
+</div>
+-->
 
 Sprachen haben mich immer schon fasziniert. Meine erste Fremdsprache war Latein, dann folgten Englisch und Französisch und über AGs und Fortbildungen kurze Ausflüge ins Russische und Spanische.
 

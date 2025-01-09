@@ -25,6 +25,8 @@ $grid-columns: 12;
 @mixin make-grid-cell($columns, $breakpoint) {
   @include media-breakpoint-up($breakpoint) {
     .cell--#{breakpoint-infix($breakpoint)}#{$columns} {
+      max-width: map-get($layout, content-max-width);
+      min-width: min(500px, 90vw);
       @include make-cell($columns);
     }
   }
@@ -33,6 +35,8 @@ $grid-columns: 12;
 .grid {
   @include flexbox();
   @include flex-wrap(wrap);
+  @include justify-content(center);
+  gap: map-get($spacers, 3);
   & > {
     @each $breakpoint in map-keys($responsive) {
       @for $i from 1 through $grid-columns {
