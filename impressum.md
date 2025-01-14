@@ -19,6 +19,14 @@ Umsatzsteuer wird nicht ausgewiesen (Kleinunternehmerregelung)
 
 ### Rechtliche Hinweise
 
+#### Berufshaftpflicht
+
+Die Haftpflichtkasse VVaG\
+Darmstädter Str. 103\
+64380 Roßdorf\
+
+Geltungsbereich: europäischer Kontinent
+
 #### Haftungsausschluss
 
 ##### Haftung für Inhalte
