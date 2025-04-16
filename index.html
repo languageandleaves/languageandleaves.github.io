@@ -85,6 +85,25 @@ layout: none
         .section.expand h1 {
             color: #325f74;
         }
+
+        @media only screen and (orientation: portrait) {
+            .logo {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -70%);
+                width: 20vh;
+            }
+
+            .column {
+                height: 100vh;
+                justify-content: space-around;
+            }
+
+            .hideonmobile {
+                display: none;
+            }
+        }
     </style>
     {%- include scripts/variables.html -%}
 </head>
@@ -100,7 +119,7 @@ layout: none
                 Sprachfortbildungen
             </div>
            
-            <h1>&</h1>
+            <h1 class="hideonmobile">&</h1>
 
             <div class="section leaves"> 
                 <h1>Leaves</h1>
