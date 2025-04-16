@@ -19,4 +19,4 @@ Wie wäre es mit einer Wald-Expedition zum nächsten **(Kinder-)Geburtstag** ode
 
 
 Gerne erstelle ich ein individuelles Angebot!\
-Ich freue mich auf eine Kontaktaufnahme, um für Euch ein passendes **Walderlebnis** zu planen.
+Ich freue mich auf eine [Kontaktaufnahme](/kontakt), um für Euch ein passendes **Walderlebnis** zu planen.

@@ -54,7 +54,7 @@ Gerne biete ich ein kostenloses Beratungsgespräch an, um das beste Angebot für
 
 #### Preise pro Kurseinheit
 
-**30 min – 15,00 Euro**\
-**45 min – 22,50 Euro**\
-**60 min – 30,00 Euro**\
-**90 min – 45,00 Euro**
+**30 min – 18,00 Euro**\
+**45 min – 25,00 Euro**\
+**60 min – 32,00 Euro**\
+**90 min – 50,00 Euro**

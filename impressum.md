@@ -23,7 +23,7 @@ Umsatzsteuer wird nicht ausgewiesen (Kleinunternehmerregelung)
 
 Die Haftpflichtkasse VVaG\
 Darmstädter Str. 103\
-64380 Roßdorf\
+64380 Roßdorf
 
 Geltungsbereich: europäischer Kontinent
 
