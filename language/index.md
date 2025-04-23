@@ -16,7 +16,7 @@ image_caption: Handpuppe Johnny ist bei den "First Steps" immer dabei
 
 Sprachen haben mich immer schon fasziniert. Meine erste Fremdsprache war Latein, dann folgten Englisch und Französisch und über AGs und Fortbildungen kurze Ausflüge ins Russische und Spanische.
 
-Während meiner Ausbildung zur Diplom-Übersetzerin und bei mehrmonatigen Auslandsaufenthalten in Irland und Frankreich konnte ich meine Sprachkenntnisse in Englisch und Franzöisch vertiefen.
+Während meiner Ausbildung zur Diplom-Übersetzerin und bei mehrmonatigen Auslandsaufenthalten in Irland und Frankreich konnte ich meine Sprachkenntnisse in Englisch und Französisch vertiefen.
 Ich habe Freunde in Irland und Amerika, mit denen ich in regelmäßigem Kontakt und Austausch bin. 
 
 Wenn ich ein fremdes Land bereise, habe ich immer ein paar landessprachliche Begrüßungsformeln und Höflichkeitsfloskeln im Gepäck. Meine Erfahrung: egal, wie stümperhaft meine Versuche sind, sie werden stets mit einem dankbaren Lächeln belohnt und es öffnen sich die Herzen der Einheimischen!!
